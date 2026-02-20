@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "ZALGP764GF.com.supreeth.Smart-Safety-Helmet",
+        "paths": ["/helmet/*", "/helmet/link"]
+      }
+    ]
+  }
+}
